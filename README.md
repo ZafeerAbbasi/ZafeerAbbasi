@@ -11,7 +11,7 @@ Here are some updates on my current work:
  1. I’m currently working on the STM32F411RE Microcontroller
  2. I’m currently learning Embedded C Firmware Development
 - 📫 How to reach me: via [email](mailto:zafeerabbasi57@yahoo.com)
-- ⚡ Fun fact: Darwins Law of Human Evolution breaks the 2<sup>nd</sup> Law of Thermodynamics
+- ⚡ Fun fact: Darwins theory of Human Evolution breaks the 2<sup>nd</sup> Law of Thermodynamics
  
  
 <!--
