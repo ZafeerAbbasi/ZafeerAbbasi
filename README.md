@@ -8,11 +8,10 @@
 
 Here are some updates on my current work:
 
- 1. I’m currently working on the STM32F411RE Microcontroller
+ 1. I’m currently working on the STM32F411RE/STM32F446RE Microcontroller
  2. I’m currently learning Embedded C Firmware Development
  3. Check out My-Projects to see some of the cool stuff I’ve made as a Mechatronic Systems Engineer!
-- 📫 How to reach me: via [email](mailto:zafeerabbasi57@yahoo.com)
-- ⚡ Fun fact: Darwins theory of Human Evolution breaks the 2<sup>nd</sup> Law of Thermodynamics
+- 📫 How to reach me: via [email](mailto:zafeerabbasi57@yahoo.com) [LinkedIn](https://www.linkedin.com/in/zafeerabbasi/)
  
  
 <!--
