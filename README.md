@@ -4,7 +4,7 @@
 ## Table of Contents
 ### Showcase
 - [Maze Solving Robot (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Maze_Solving_Robot_C)
-- [CAN Communication using STM MCU's (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
+- [CAN Communication using STM MCUs (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
 - [Networking using Sockets (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Network_Socket_Communication_C)
 ### General Projects:
 - [Maze Solving Robot (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Maze_Solving_Robot_C)
@@ -17,7 +17,7 @@
 - [Copy and Paste Program (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Copy_and_Paste_Program_C)
 
 ### STM32  
-- [CAN Communication using STM MCU's (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
+- [CAN Communication using STM MCUs (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
 - [Low Power Operation using SLEEPONEXIT in STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/LowPowerMode_SLEEPONEXIT_C)
 
 
