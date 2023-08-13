@@ -20,7 +20,7 @@
 - [CAN Communication using STM32 MCUs (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
 - [Low Power Operation using SLEEPONEXIT in STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/LowPowerMode_SLEEPONEXIT_C)
 
-[### Licences/Certifications]()
+[Licences/Certifications]()
 
 
 #### Check out [My-Projects](https://github.com/ZafeerAbbasi/My-Projects) to see some of the cool stuff I’ve made as a Mechatronic Systems Engineer!
