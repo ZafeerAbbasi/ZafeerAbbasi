@@ -21,7 +21,7 @@
 - [Low Power Operation using SLEEPONEXIT in STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/LowPowerMode_SLEEPONEXIT_C)
 
 ### Licenses/Certifications
-- [Mastering Microcontrollers: STM32-LTDC, LCD-TFT, LVGL]()
+- [Mastering Microcontrollers: STM32-LTDC, LCD-TFT, LVGL](http://ude.my/UC-8496b92f-8375-4957-936d-f3e4dc103437/)
 - [Mastering Microcontrollers: Timers, PWM, CAN, RTC, Low-Power Development](http://ude.my/UC-efd6576a-0f98-42e0-96e5-57021b6d103d)
 - [Embedded Systems Bare-Metal Programming](https://www.ude.my/UC-3609d8b2-8b61-44af-8573-f1bebb1794e9/)
 - [Embedded MicroPython](https://www.ude.my/UC-67156473-7d77-44d8-8c77-f6abf477f41b/)
