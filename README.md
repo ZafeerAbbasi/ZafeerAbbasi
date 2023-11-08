@@ -25,6 +25,7 @@
 - [Copy and Paste Program (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Copy_and_Paste_Program_C)
 
 ### Licenses/Certifications
+- [Bluetooth Low Energy ( BLE ) from Ground Up](https://www.udemy.com/certificate/UC-bab497c4-64f2-426c-be18-fb00f959be82/)
 - [Embedded Ethernet Programming with HAL](https://www.udemy.com/certificate/UC-21e13717-f6ea-4881-b11f-91097be76485/)
 - [Mastering Microcontrollers: STM32-LTDC, LCD-TFT, LVGL](http://ude.my/UC-8496b92f-8375-4957-936d-f3e4dc103437/)
 - [Mastering Microcontrollers: Timers, PWM, CAN, RTC, Low-Power Development](http://ude.my/UC-efd6576a-0f98-42e0-96e5-57021b6d103d)
