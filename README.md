@@ -1,5 +1,31 @@
-# Hi there 👋
+# 💫 Zafeer Abbasi
 #### Welcome to my Github!
+Hi! I'm a senior at Simon Fraser University studying Mechatronic Systems Engineering. My strengths include firmware and embedded software as well as PCB/Electrical Schematics.
+
+Feel free to reach out - I'm always willing to learn more and get involved!
+
+## 🌐 Socials:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/zafeerabbasi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+## 📊 GitHub Stats:
+![Zafeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafeerabbasi&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeerabbasi&layout=compact&theme=tokyonight)
+
 
 ## Table of Contents
 ### Project Showcase
