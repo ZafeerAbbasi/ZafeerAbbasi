@@ -39,6 +39,7 @@ Feel free to reach out - I'm always willing to learn more and get involved!
 - [Clock Alarm GUI using LVGL on STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/Clock_Alarm_GUI_using_LVGL_C)
 - [CAN Communication using STM32 MCUs (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/CAN_Communication_C)
 - [Low Power Operation using SLEEPONEXIT in STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/LowPowerMode_SLEEPONEXIT_C)
+- [STM32Fx Custom Bootloader Development (C)](https://github.com/ZafeerAbbasi/Zafeer_STMFxCustomBootloader/tree/main)
 
 ### General Projects:
 - [Maze Solving Robot (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Maze_Solving_Robot_C)
@@ -51,6 +52,7 @@ Feel free to reach out - I'm always willing to learn more and get involved!
 - [Copy and Paste Program (C)](https://github.com/ZafeerAbbasi/My-Projects/tree/main/Copy_and_Paste_Program_C)
 
 ### Licenses/Certifications
+- [STM32Fx Micrcontroller Custom Bootloader Development](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d4741dad-a339-4dde-8826-7d2d80456683.pdf)
 - [Cmake, Tests and Tooling for C/C++ Projects](https://www.udemy.com/certificate/UC-2e6e4543-d646-4a94-a19c-a0bd7b597837/)
 - [Embedded Systems Design with UML State Machines](https://www.udemy.com/certificate/UC-5498638f-bce2-4508-8020-6153ee0d8796/)
 - [Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging](https://www.udemy.com/certificate/UC-bd31b3e7-f40d-4c4e-a77b-ff2907f7cfe0/)
