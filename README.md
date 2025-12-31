@@ -22,11 +22,6 @@ Feel free to reach out - I'm always willing to learn more and get involved!
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-## 📊 GitHub Stats:
-![Zafeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafeerabbasi&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeerabbasi&layout=compact&theme=tokyonight)
-
-
 ## Table of Contents
 ### Project Showcase
 - [BLE-Controlled Display and Joystick Interface System on STM32MCU (C)](https://github.com/ZafeerAbbasi/My_Projects/tree/main/STM32_Projects/BLE_Display_Joystick_Interface_C)
